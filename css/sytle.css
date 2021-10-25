@@ -1,5 +1,6 @@
 body{
     background-image: url("../img/the\ witcher\ hell.png");
+    font-family: 'Montserrat', sans-serif;
 }
 
 nav img{
@@ -11,7 +12,6 @@ nav p{
     letter-spacing: 0.6px;
     color: #FFFFFF;
     text-transform: uppercase;
-    opacity: 0.6;
     font-size: 1rem;
     display: inline;
     padding-left:2.813rem;
@@ -23,11 +23,13 @@ nav p{
     margin-left: 30rem;
 }
 
+.nav-link-universo{
+    font-weight: bold;
+}
 .nav-link a{
     letter-spacing: 0.6px;
     color: #FFFFFF;
     text-transform: uppercase;
-    opacity: 0.6;
     font-size: 1rem;
     text-decoration: none;
     padding-right: 1.8rem;  
@@ -35,7 +37,12 @@ nav p{
 
 nav a:hover{
     color: #FFFFFF;
+    opacity: 0.8;
+}
+
+nav a:active{
     opacity: 1;
+    text-decoration: underline;
 }
 
 section img{
@@ -78,6 +85,7 @@ footer p{
     font-size: 0.7rem;
     letter-spacing: 0.45px;
     margin-left: 2rem;
+    font-weight:600;
 }
 
 .paragrafo1-footer{
