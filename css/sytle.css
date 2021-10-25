@@ -1,0 +1,87 @@
+body{
+    background-image: url("https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0?component_id=2aa22924-402c-4d35-bcf9-2acd27754d88&api_key=CometServer1&access_token=1635087644_urn%3Aaaid%3Asc%3AUS%3A3e5bdfff-8c40-42c0-8fd9-125ed8881d4e%3Bpublic_984fa679c852358c29750a6e8e4ee1f5038119be");
+}
+
+nav img{
+    margin: 0.813rem 0 0 11.188rem;
+    float: left;
+}
+
+nav p{
+    letter-spacing: 0.6px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 0.6;
+    font-size: 1rem;
+    display: inline;
+    padding-left:2.813rem;
+    line-height: 7.5rem;
+}
+
+.nav-link{
+    display: inline;
+    margin-left: 30rem;
+}
+
+.nav-link a{
+    letter-spacing: 0.6px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 0.6;
+    font-size: 1rem;
+    text-decoration: none;
+    padding-right: 1.8rem;  
+}
+
+nav a:hover{
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+section img{
+    height: 100vh;
+    display: block;
+    margin: 0 auto;
+}
+
+.the-witcher{
+    width: 310px;
+    height: 150px;
+    margin:-27% 0 0 40%;
+}
+
+section button{
+    color: #FFFFFF;
+    text-transform: uppercase;
+    background-color: #d21e29;
+    padding: 0.7rem;
+    border-radius: 5px;
+    width: 14rem;
+    border:5px solid #d21e29;
+    margin:1.5% 0 0 43%;
+    cursor: pointer;
+}
+
+section button:hover{
+    background-color: #B20F19;
+    border:5px solid #B20F19;
+}
+
+button a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+footer p{
+    color: #fff;
+    font-size: 0.7rem;
+    letter-spacing: 0.45px;
+    margin-left: 2rem;
+}
+
+.paragrafo1-footer{
+    padding-top: 6.5rem;
+}
+
+
