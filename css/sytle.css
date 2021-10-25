@@ -23,9 +23,6 @@ nav p{
     margin-left: 30rem;
 }
 
-.nav-link-universo{
-    font-weight: bold;
-}
 .nav-link a{
     letter-spacing: 0.6px;
     color: #FFFFFF;
@@ -37,11 +34,10 @@ nav p{
 
 nav a:hover{
     color: #FFFFFF;
-    opacity: 0.8;
+    font-weight: bold;
 }
 
 nav a:active{
-    opacity: 1;
     text-decoration: underline;
 }
 
